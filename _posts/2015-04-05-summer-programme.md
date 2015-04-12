@@ -2,29 +2,49 @@
 layout: post
 title: Summer 2015
 excerpt: "Programme of events for Summer 2015"
-modified: 2015-04-05
+modified: 2015-04-12
 tags: [programmes]
 comments: true
 share: false
 image:
-  feature: sample-image-5.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  feature: banner.png
 ---
 
-| Date | Juniors | Seniors |
-|:--------|:-------:|--------:|
-| 18 April | cell2   | cell3   |
-| 25 April | cell5   | cell6   |
-| 2 May | cell5   | cell6   |
-| 9 May | cell5   | cell6   |
-| 16 May | cell5   | cell6   |
-| 23 May | cell5   | cell6   |
-| 30 May | cell5   | cell6   |
-| 6 June | cell5   | cell6   |
-| 13 June | cell5   | cell6   |
-| 20 June | cell5   | cell6   |
-| 27 June | cell5   | cell6   |
-| 4 July | cell5   | cell6   |
-| 11 July | cell5   | cell6   |
-| 18 July | cell5   | cell6   |
+## Juniors
+
+| Date | Activity |
+|:--------|:-------|
+| 18 April | Treasure Hunt |
+| 25 April | *No club* |
+| 2 May | Orienteering |
+| 9 May | Volleyball |
+| 16 May | May pilgrimage, followed by excursion |
+| 23 May | *No club* |
+| 30 May | Campfire cooking |
+| 6 June | Dads & lads hike |
+| *12-14 June* | Weekend camp |
+| 20 June | Great games in the garden |
+| 27 June | *No club* |
+| 4 July | Family barbecue |
+| 11 July | Kwik cricket |
+| 18 July | *No club* |
+
+## Seniors
+
+| Date | Activity |
+|:--------|:-------|
+| 18 April | Regular activities |
+| 25 April | Regular activities and recollection |
+| 2 May | Orienteering |
+| 9 May | Volleyball |
+| 16 May | May pilgrimage, followed by excursion |
+| 23 May | Regular activites and recollection |
+| 30 May | Campfire cooking |
+| 6 June | Dads & lads hike |
+| 13 June | Regular activities |
+| 20 June | Great games in the garden |
+| 27 June | Regular activities and recollection |
+| 4 July | Family barbecue |
+| 11 July | Kwik cricket |
+| 18 July | Regular activites and recollection |
+| *20-26 July* | Summer camp |
