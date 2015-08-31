@@ -23,7 +23,7 @@ This terms parents’ meeting will take place on 10th October from 3 until 5 pm.
 | 3 Oct | Build a **Marble Run.** |
 | 10 Oct | **Wide game.** |
 | 17 Oct | *No club.* |
-| 23-25 Oct | **Weekend camp** at Isthmus Cottage on the very edge of Derwent Waters in the Lake District. |
+| 23-25 Oct | **Weekend camp** at [Isthmus Cottage](http://www.youngcumbria.org.uk/component/option,com_resman/Itemid,86/) on the very edge of Derwent Waters in the Lake District. |
 | 31 Oct | **Manchester Science Festival** |
 | 7 Nov | **Cooking** |
 | 14 Nov | **National Football Museum** |
@@ -44,7 +44,7 @@ This terms parents’ meeting will take place on 10th October from 3 until 5 pm.
 | 3 Oct | **Debate.** |
 | 10 Oct | **Wide game.** |
 | 17 Oct | **Regular activites** followed by afternoon of recollection. |
-| 23-25 Oct | **Weekend camp** at Isthmus Cottage on the very edge of Derwent Waters in the Lake District. |
+| 23-25 Oct | **Weekend camp** at [Isthmus Cottage](http://www.youngcumbria.org.uk/component/option,com_resman/Itemid,86/) on the very edge of Derwent Waters in the Lake District. |
 | 31 Oct | **Manchester Science Festival** |
 | 7 Nov | **Cooking** |
 | 14 Nov | **National Football Museum** |
